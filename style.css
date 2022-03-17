@@ -1,0 +1,10 @@
+body{
+    background-color: #dee6ee;
+}
+img {
+    padding-top:2em;
+    border: none;
+}
+#message{
+    color: #dc3545;
+}
